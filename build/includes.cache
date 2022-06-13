@@ -1,0 +1,42 @@
+[
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\joaop\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\cores\\arduino"
+  },
+  {
+    "Sourcefile": null,
+    "Include": "",
+    "Includepath": "C:\\Users\\joaop\\AppData\\Local\\Arduino15\\packages\\arduino\\hardware\\avr\\1.8.5\\variants\\standard"
+  },
+  {
+    "Sourcefile": "c:\\Users\\joaop\\OneDrive - Instituto Nacional de Telecomunicações\\Inatel\\2022-1-SEMESTRE\\C115-L1\\Atividades\\Projeto-Final\\build\\sketch\\trabalho-final.ino.cpp",
+    "Include": "DHT.h",
+    "Includepath": "C:\\Users\\joaop\\Documents\\Arduino\\libraries\\DHT-sensor-library-master"
+  },
+  {
+    "Sourcefile": "c:\\Users\\joaop\\OneDrive - Instituto Nacional de Telecomunicações\\Inatel\\2022-1-SEMESTRE\\C115-L1\\Atividades\\Projeto-Final\\build\\sketch\\trabalho-final.ino.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\joaop\\Documents\\Arduino\\libraries\\DHT-sensor-library-master\\DHT.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\joaop\\Documents\\Arduino\\libraries\\DHT-sensor-library-master\\DHT_U.cpp",
+    "Include": "Adafruit_Sensor.h",
+    "Includepath": "C:\\Users\\joaop\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor"
+  },
+  {
+    "Sourcefile": "C:\\Users\\joaop\\Documents\\Arduino\\libraries\\DHT-sensor-library-master\\DHT_U.cpp",
+    "Include": "",
+    "Includepath": null
+  },
+  {
+    "Sourcefile": "C:\\Users\\joaop\\Documents\\Arduino\\libraries\\Adafruit_Unified_Sensor\\Adafruit_Sensor.cpp",
+    "Include": "",
+    "Includepath": null
+  }
+]
